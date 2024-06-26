@@ -161,7 +161,8 @@ This course outline aims to provide a thorough understanding of AWS services and
 Ready to advance your career with top-notch cloud solution architect training? Contact us today to enroll in our AWS Solution Architect certification training programs.
 
 **Contact Information**
+
  [Contact Us](https://www.oakstack.ai/contact-us/)
 
-Empower yourself with the skills and knowledge to become a certified cloud solution architect and DevOps professional, and lead your organization into the future of cloud computing and efficient IT operations.
+Empower yourself with the skills and knowledge to become a certified cloud solution architect professional, and lead your organization into the future of cloud computing and efficient IT operations.
 
