@@ -164,6 +164,9 @@ Ready to advance your career with top-notch cloud solution architect training? C
 
  [Contact Us](https://www.oakstack.ai/contact-us/)
 
+**Weekend Batch**
+Saturday - Sunday | Time: Saudi Arabia: 7:30AM | India: 10:00AM | AEST: 2:30PM 
+
 **Trainer Information**
 Trainer with Advanced Multi-Cloud and Enterprise Architecture Certifications. With over two decades of experience spanning leadership, management, and hands-on work across diverse technologies, Monowar Mukul specializes in spearheading large-scale IT transformation initiatives. His track record includes steering collaborations focused on business-centric goals such as next-gen platform migrations, IT consolidation post-mergers, and Cloud adoption through XaaS programs. He has contributed significantly to technical architecture and infrastructure design for mission-critical enterprise systems across sectors such as tertiary education, energy, government, mining, and transportation. He is an AWS Certified Solutions Architect – Professional, Microsoft Certified: Azure Solutions Architect Expert, Professional Cloud Architect, and Oracle Cloud Infrastructure Architect Professional.
 
