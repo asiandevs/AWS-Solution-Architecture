@@ -8,7 +8,7 @@ Unlock the potential of Amazon Web Services (AWS) with our comprehensive AWS Sol
 **Course Highlights:**
 - **Core Concepts**: In-depth coverage of AWS fundamentals, including compute, storage, networking, and database services.
 - **Architecting Best Practices**: Learn to design resilient, high-performing, secure, and cost-optimized architectures.
-- **Hands-On Labs**: Practical exercises and labs to apply your knowledge in real-world scenarios.
+- **Hands-On Labs**: Guide you for Practical exercises and labs to apply your knowledge in real-world scenarios.
 - **Exam Preparation**: Detailed guidance and practice exams to prepare you for the AWS Certified Solutions Architect – Associate exam.
 - **Expert Instructors**: Training led by certified AWS professionals with extensive industry experience.
 
